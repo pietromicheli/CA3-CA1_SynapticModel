@@ -1,16 +1,10 @@
-# OTR
-Oxytocin Metabolic Pathway
-
-# OTR mathematical metabolic pathway
-
+# CA3-CA1 Synapse
+Mathematical model for CA3-CA1 synaptic transmission.
 
 [![DOI]()]()
 
-Mathematical model of the Oxytocin Receptor coupled to the q11 G-protein.
-
-
 ## About
-Mathematical model of the Oxytocin Receptor coupled to the q11 G-protein.
+frasetta descrittiva d'effetto
 
 
 ## Citation
@@ -42,9 +36,8 @@ DOI = {}
 * ScyPy (https://www.scipy.org)
 * SymPy == 1.5.1 (https://www.sympy.org)
 * Matplotlib (https://matplotlib.org)
-* Sklearn (https://scikit-learn.org)
 
 
 ## License
-`OTR pathway` are open-source and licensed under the  Apache License, version 2.0.
+`CA3-CA1 Synapse` are open-source and licensed under the  Apache License, version 2.0.
 For details, see the LICENSE file.
