@@ -28,7 +28,7 @@ DOI = {}
 ```
 
 ## Requirements
-`OTR mathematical metabolic pathway` should run on Python 3.x.
+`CA3-CA1 Synaptic Model` should run on Python 3.x.
 
   * Jupyter (https://jupyter.org)
 * PySb (http://pysb.org)
