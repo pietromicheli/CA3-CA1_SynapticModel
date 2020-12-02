@@ -4,7 +4,7 @@ Mathematical model for CA3-CA1 synaptic transmission.
 [![DOI]()]()
 
 ## About
-This program allows to easely simulate the synaptic transmission which occur in glutamatergic CA3-CA1 synapses
+This program allows to easily simulate the synaptic transmission which occur in glutamatergic CA3-CA1 synapses
 
 
 ## Citation
