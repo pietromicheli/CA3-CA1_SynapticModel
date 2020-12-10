@@ -1,4 +1,4 @@
-# CA3-CA1 Synapse
+# CA3-CA1 SynapticModel
 Mathematical model for CA3-CA1 synaptic transmission.
 
 [![DOI]()]()
